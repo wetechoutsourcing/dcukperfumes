@@ -1,0 +1,1 @@
+Strategy to add payment module
